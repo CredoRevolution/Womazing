@@ -1,2 +1,2 @@
 # Womazing
-My first serious project made 2 years ago :_)
+"Womazing" marks my inaugural venture into web development, crafted approximately three years ago upon completion of frontend development courses. This multi-page website, subsequently seamlessly integrated into WordPress, served as my initiation into the realm of web development. Reflecting the progress and expertise accumulated over the past years, the project represents a harmonious blend of creative design and technical prowess. Immerse yourself in the distinctive web realm of "Womazing," showcasing my initial stride into crafting digital visual experiences.
